@@ -1,0 +1,4 @@
+Rencana Konten :
+- membuat video tentang framework
+- belajar framework javascript
+- belajar phyton
