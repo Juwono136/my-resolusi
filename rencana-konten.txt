@@ -3,5 +3,8 @@ Rencana Konten :
 - belajar framework javascript
 *ES6
 *React.js
+*Vue.js
 - Fundamental Data Structure
 - belajar phyton
+- php framework
+*laravel
