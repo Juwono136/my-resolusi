@@ -1,0 +1,6 @@
+Rencana Konten :
+- membuat video tentang framework
+- belajar framework javascript
+*ES6
+*React.js
+- belajar phyton
