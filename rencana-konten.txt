@@ -3,4 +3,5 @@ Rencana Konten :
 - belajar framework javascript
 *ES6
 *React.js
+- Fundamental Data Structure
 - belajar phyton
