@@ -2,5 +2,5 @@ My Resolution
 - Belajar Web Developer
 - Mengenal lebih dalam mengenai Data Science
 - Lulus JLPT N3
-- Belajar Framework PHP dan JavaScript
 - Berkolaborasi dengan banyak orang
+- Membuat Startup teknologi
